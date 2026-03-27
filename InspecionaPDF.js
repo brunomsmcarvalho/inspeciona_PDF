@@ -1,7 +1,7 @@
 import { PDFDocument } from 'pdf-lib';
 import fs from 'fs';
 
-const pdfBytes = fs.readFileSync('DocumentoReforçoPPRSGFStoik.pdf');
+const pdfBytes = fs.readFileSync('NOME_DO_PDF.pdf');
 const pdfDoc = await PDFDocument.load(pdfBytes);
 const form = pdfDoc.getForm();
 
