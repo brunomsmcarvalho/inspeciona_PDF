@@ -15,11 +15,12 @@ fs (módulo nativo do Node.js)
 
 Certifica-te de que tens o seguinte:
 
-/project-folder
+'/project-folder
 │
 ├── script.js
 ├── DocumentoReforçoPPRSGFStoik.pdf
-└── package.json
+└── package.json'
+
 ⚙️ Instalação
 Clona o repositório ou copia os ficheiros:
 git clone <teu-repositorio>
